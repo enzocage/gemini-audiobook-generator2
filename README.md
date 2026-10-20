@@ -1,8 +1,6 @@
-# 🎧 Gemini Audiobook Generator
+# 🎧 Audiobook Generator
 
 Ein modernes, leistungsstarkes Web-Tool zur Konvertierung von Texten und Manuskripten in lebendige, professionelle Hörbücher mithilfe der neuesten **Google Gemini Text-to-Speech (TTS)** Modelle.
-
-![Gemini Audiobook Generator](https://ai.google.dev/static/site-assets/images/share-ais-513315318.png)
 
 ---
 
