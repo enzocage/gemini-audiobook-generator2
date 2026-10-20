@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Audiobook Generator",
+  "description": "Convert text into high-quality audiobooks using Gemini's advanced Text-to-Speech models, including Gemini 3.8 Flash & 3.8 Flash-Lite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
